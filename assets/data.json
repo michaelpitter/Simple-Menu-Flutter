@@ -1,0 +1,52 @@
+[
+    {
+        "url" : "https://fore.coffee/wp-content/uploads/2019/12/Aren-Latte.jpg",
+        "name" : "Aren Latte",
+        "price" : 34000
+    },
+    {
+        "url" : "https://fore.coffee/wp-content/uploads/2019/12/Pandan-Latte-min-1.jpg",
+        "name" : "Pandan Latte",
+        "price" : 36000
+    },
+    {
+        "url" : "https://fore.coffee/wp-content/uploads/2019/12/ShakeShakeLatte-3.jpg",
+        "name" : "Shake Shake Latte",
+        "price" : 29000
+    },
+    {
+        "url" : "https://fore.coffee/wp-content/uploads/2019/12/BiscuitChizu-2.jpg",
+        "name" : "Biscuit Chizu",
+        "price" : 39000
+    },
+    {
+        "url" : "https://fore.coffee/wp-content/uploads/2019/12/Iced-Roasted-Latte-1.jpg",
+        "name" : "Roasted Latte",
+        "price" : 34000
+    },
+    {
+        "url" : "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20210630170452424412/photo/1c767114cdb746af9c7c293e2cc474bd_1625072692629540814.jpg",
+        "name" : "Caramel Manuka",
+        "price" : 32000
+    },
+    {
+        "url" : "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE20210630170453158425/photo/6a2bef8447134a598297eeac0bbad817_1625072693197531999.jpg",
+        "name" : "Manuka Americano",
+        "price" : 27000
+    },
+    {
+        "url" : "https://d1sag4ddilekf6.azureedge.net/compressed/items/6-CY6DTF2DANV3BA-CZAFJTTALLNJJ2/photo/43d823ffdf8741e684adaa6286f4e555_1598849491663273613.jpg",
+        "name" : "Honey Latte",
+        "price" : 31900
+    },
+    {
+        "url" : "https://d1sag4ddilekf6.azureedge.net/compressed/items/6-CY6DTF2DANV3BA-CY6UN2CZNRJJAE/photo/e05557721a1e476e8cc9bc6807c8e8c0_1597992228023948831.jpg",
+        "name" : "Shake-shake Oreo",
+        "price" : 27500
+    },
+    {
+        "url" : "https://d1sag4ddilekf6.azureedge.net/compressed/items/6-CY6DTF2DANV3BA-CY6FLGCKEJLBAX/photo/6bda3e1582564356987faeafcfac88c4_1597992227371916499.jpg",
+        "name" : "Magnum Brown Latte",
+        "price" : 55000
+    }
+]
